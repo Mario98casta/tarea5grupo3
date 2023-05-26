@@ -1,0 +1,36 @@
+body {
+    margin: 10;
+    padding: 10;
+    background: url(../Figuras/img/triangulo-abstrac-fondo-blanco-papel_51543-814.avif) no-repeat center top;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    
+}
+
+h1 {
+    padding: 10;
+    margin-top: 20;
+    margin-bottom: 10;
+    text-align: center;
+    text-decoration-color: black;
+    font-size: 50px;
+  
+}
+
+#shape-selector {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    
+}
+
+#result {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+   
+}
+
+
+
