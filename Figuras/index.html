@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Calculadora de figuras geométricas</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <h1>CALCULADORA DE FIGURAS GEOMETRICAS</h1>
+    <div class="selector" id="shape-selector">
+        <label for="shape">Seleccione una figura:</label>
+        <select id="shape">
+            <option value="triangle">Triángulo</option>
+            <option value="square">Cuadrado</option>
+            <option value="diamond">Rombo</option>
+            <option value="trapezoid">Trapecio</option>
+            <option value="circle">Círculo</option>
+            <option value="rectangle">Rectángulo</option>
+        </select>
+        <button onclick="calculate()">Calcular</button>
+    </div>
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
