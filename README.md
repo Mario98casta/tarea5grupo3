@@ -1,5 +1,5 @@
 # tarea5grupo3
-figuras geométricas análisis de sistemas
+
 CALCULADORA DE AREA Y PERÍMETRO DE FIGURAS GEOMÉTRICAS 
 La Calculadora de Área y Perímetro de Figuras Geométricas es una aplicación web que te permite calcular el área y el perímetro de diferentes figuras geométricas, como triángulos, cuadrados, rombos, trapecios, círculos y rectángulos. Esta herramienta es útil para estudiantes, profesionales y entusiastas de la geometría que necesiten realizar cálculos rápidos y precisos.
 
